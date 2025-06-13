@@ -14,7 +14,7 @@ $u(x)=\boxed{\sum_{i=0}^N {N_i(x) u_i(x)}}$
  - $N_i(x)$ is the shape function for each respective node
 
 <figure style="display: flex; flex-direction: column; align-items: center; text-align: center;">
-    <img src="image1.webp" alt="Description 1" width="300"/>
+    <img src="images/image1.webp" alt="Description 1" width="300"/>
     <figcaption>Steps of FEM</figcaption>
   </figure>
 
@@ -31,12 +31,12 @@ $u(x)=\boxed{\sum_{i=0}^N {N_i(x) u_i(x)}}$
 <div style="display: flex; justify-content: center; gap: 40px;">
 
   <figure style="display: flex; flex-direction: column; align-items: center; text-align: center;">
-    <img src="image2.png" alt="Description 1" width="300"/>
+    <img src="images/image2.png" alt="Description 1" width="300"/>
     <figcaption>Figure 1.1: Example of elemnts</figcaption>
   </figure>
 
   <figure style="display: flex; flex-direction: column; align-items: center; text-align: center;">
-    <img src="image3.png" alt="Description 2" width="300"/>
+    <img src="images/image3.png" alt="Description 2" width="300"/>
     <figcaption>Figure 1.2: Shape function representation</figcaption>
   </figure>
 
