@@ -32,12 +32,12 @@ $u(x)=\boxed{\sum_{i=0}^N {N_i(x) u_i(x)}}$
 
   <figure style="display: flex; flex-direction: column; align-items: center; text-align: center;">
     <img src="images/image2.png" alt="Description 1" width="300"/>
-    <figcaption>Figure 1.1: Example of elemnts</figcaption>
+    <figcaption>Figure 1.1: Element example </figcaption>
   </figure>
 
   <figure style="display: flex; flex-direction: column; align-items: center; text-align: center;">
     <img src="images/image3.png" alt="Description 2" width="300"/>
-    <figcaption>Figure 1.2: Shape function representation</figcaption>
+    <figcaption>Figure 1.2: Element interpolation</figcaption>
   </figure>
 
 </div>
